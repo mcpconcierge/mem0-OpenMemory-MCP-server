@@ -1,5 +1,7 @@
 # OpenMemory
 
+Video Tutorial: https://www.youtube.com/watch?v=Y2XI2nk44WE
+
 OpenMemory is your personal memory layer for LLMs - private, portable, and open-source. Your memories live locally, giving you complete control over your data. Build AI applications with personalized memories while keeping your data secure.
 
 ![OpenMemory](https://github.com/user-attachments/assets/3c701757-ad82-4afa-bfbe-e049c2b4320b)
